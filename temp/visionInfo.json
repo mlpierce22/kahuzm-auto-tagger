@@ -1,0 +1,100 @@
+{
+  "categories": [
+    { "name": "others_", "score": 0.00390625 },
+    { "name": "people_", "score": 0.46484375 },
+    { "name": "people_portrait", "score": 0.45703125 }
+  ],
+  "color": {
+    "dominantColorForeground": "Black",
+    "dominantColorBackground": "White",
+    "dominantColors": ["White", "Black", "Brown"],
+    "accentColor": "703F28",
+    "isBwImg": False,
+    "isBWImg": False
+  },
+  "description": {
+    "tags": [
+      "person",
+      "woman",
+      "indoor",
+      "food",
+      "table",
+      "sitting",
+      "looking",
+      "holding",
+      "shirt",
+      "plate",
+      "wearing",
+      "glasses",
+      "eating",
+      "girl",
+      "young",
+      "donut",
+      "laptop",
+      "restaurant",
+      "sandwich",
+      "cake",
+      "bear",
+      "phone"
+    ],
+    "captions": [
+      {
+        "text": "a woman in glasses looking at the camera",
+        "confidence": 0.9083126322199156
+      }
+    ]
+  },
+  "requestId": "bd908a16-cf1a-4106-b675-45e2f96003e1",
+  "metadata": { "width": 683, "height": 1024, "format": "Jpeg" }
+}
+{
+  "categories":[
+    {
+      "name":"others_",
+      "score":0.58203125
+    }
+  ],
+  "color":{
+    "dominantColorForeground":"White",
+    "dominantColorBackground":"White",
+    "dominantColors":[
+      "White",
+      "Grey"
+    ],
+    "accentColor":"233C7B",
+    "isBwImg":False,
+    "isBWImg":False
+  },
+  "description":{
+    "tags":[
+      "person",
+      "bottle",
+      "table",
+      "holding",
+      "hand",
+      "blue",
+      "sitting",
+      "close",
+      "glass",
+      "food",
+      "kitchen",
+      "man",
+      "wooden",
+      "lotion",
+      "phone",
+      "standing"
+    ],
+    "captions":[
+      {
+        "text":"a close up of a person holding a bottle",
+        "confidence":0.624529114668905
+      }
+    ]
+  },
+  "requestId":"75c9d469-7457-47b5-befb-2e22aa71806f",
+  "metadata":{
+    "width":1000,
+    "height":1333,
+    "format":"Jpeg"
+  }
+}
